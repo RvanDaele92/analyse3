@@ -23,3 +23,4 @@ Wij zijn zelf geen programmeurs, wij houden niet direct rekening met de haalbaar
 3.	Gebruikerstips?
 4.	Vooral focus leggen op 21 dagen of vooral informatief? Wat is het nut na de 21 dagen?
 5.	Functie om restaurants in de buurt op te zoeken?
+6.	Kunnen gebruikers met elkaar communiceren? (facebook)
