@@ -24,3 +24,7 @@ Wij zijn zelf geen programmeurs, wij houden niet direct rekening met de haalbaar
 4.	Vooral focus leggen op 21 dagen of vooral informatief? Wat is het nut na de 21 dagen?
 5.	Functie om restaurants in de buurt op te zoeken?
 6.	Kunnen gebruikers met elkaar communiceren? (facebook)
+7.	Moet er een kalender aanwezig zijn?
+8.	Zijn de giften belangrijk voor EVA?
+9.	Wat als we een dag missen tijdens die 3 weken?
+10.	Is er een beloning aan het eind van de 21 dagen?
