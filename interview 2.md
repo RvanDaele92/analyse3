@@ -13,7 +13,7 @@
 #####3.	Al onze ideeën overlopen van hoe de app er precies uit zou moeten zien.
 
   
-  #####3.1 Downloaden
+#####3.1 Downloaden
 
     
     * In de app store vind je 1 app van Eva
@@ -23,7 +23,7 @@
         
     * Enkel een gratis versie waarin reclame getoond wordt
   
-  #####3.2 Aanmelden
+#####3.2 Aanmelden
   
     
     * Eerste optie is aanmelden via facebook, met 1 klik wordt de informatie opgeslagen waardoor EVA ook beschikt over het          emailadres
@@ -33,7 +33,7 @@
     * De app vraagt de gebruiker hoe vegetarisch hij is a.d.h.v hoeveel maal per week hij of zij nog vlees eet
     
   
-  #####3.3 21 dagen
+#####3.3 21 dagen
   
   
     * Wanneer de gebruiker de app voor de eerste keer start krijgt hij de optie om de 21-dagen challenge te starten, zo             wordt hij niet overdonderd door direct de eerste opdracht te krijgen, maar kan hij eerst de app ontdekken.
@@ -53,7 +53,7 @@
     * Iedere dag kan de gebruiker op facebook posten welke challenge hij gedaan heeft, om zo meerdere mensen mss nog te             motiveren
     
     
-  #####3.4 Na 21 dagen
+#####3.4 Na 21 dagen
   
   
     * Totaaloverzicht van alle challenges: geslaagde en niet geslaagde opdrachten samen met totaal aantal punten
