@@ -31,8 +31,27 @@
   * Tweede optie is nieuw account aanmaken, waarna de gebruiker zijn naam, voornaam, email, geslacht en geboortedatum             ingeeft
     
   * De app vraagt de gebruiker hoe vegetarisch hij is a.d.h.v hoeveel maal per week hij of zij nog vlees eet
-    
   
+#####3 ideeën
+
+  - Maak iets met een groente die je niet kent
+ * Deze veggie challenge kan u als een perfect excuus zien om in de winkel eens gewoon langs de
+ groente- en fruit sectie te wandelen en nieuwe dingen te ontdekken. Een diversere maaltijd is veel
+ plezanter dan altijd dezelfde zaken te eten en zal de overvang naar vegetariër dan ook een stuk 
+ gemakkelijker maken.
+
+- Creër je eigen veggie maaltijd (dit zou challenge 21 zijn)
+* Je hebt nu al 20 dagen vegetarische maaltijden gegeten en recepten gezien, gemaakt en gegeten uit
+onze recepten lijst. Nu is het aan jou om zelf eens een recept te maken. Voor de meesters in de keuken
+kan dit een geheel nieuwe creatie zijn, voor de anderen misschien een gewoon recept met enkele aanpassingen.
+En wie weet, kan je misschien je vrienden of familie verrassen met je heerlijke creatie!
+
+- Potluck met vrienden
+* Een potluck is een gezamenlijke maaltijd waarbij elke deelnemer of groep deelnemers eten meebrengt 
+(vaak zelf bereid) en dus deelt met alle andere aanwezige gasten. Het idee is dat men met minimale 
+kosten toch een zeer gevarieerde maaltijd heeft, waarbij het "luck"-element speelt.
+
+    
 #####3.3 21 dagen
   
   
@@ -41,8 +60,6 @@
   * De gebruiker wordt telkens gemotiveerd tot hij voor de eerste keer de 21 	dagen challenge start.
     
   * Eenmaal gestart krijgt de gebruiker iedere dag een nieuwe melding van een nieuwe challenge die hij moet uitvoeren (ter         motivatie)
-    
-  * 3 ideeën door onszelf
     
   * Wanneer een bepaalde challenge op een dag onmogelijk is kan de gebruiker kiezen om de challenge uit te stellen (dag           naar keuze, willekeurig of de dag erna??)
     
